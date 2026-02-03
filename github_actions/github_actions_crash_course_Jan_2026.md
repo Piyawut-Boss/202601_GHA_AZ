@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: default
 class:
   - lead
 paginate: true
@@ -9,13 +9,9 @@ backgroundColor: #89f0a5
 
 # GitHub Actions Crash Course Jan 2026
 
----
-
-## About Me
-
-* Piti Champeethong (Fyi/ฟี่)
-* Senior Consulting Engineer
-* LinkedIn: [Me](https://www.linkedin.com/in/pitichampeethong/)
+**Piti Champeethong (Fyi/ฟี่)**
+**LinkedIn: [pitichampeethong](https://www.linkedin.com/in/pitichampeethong/)**
+**Date: 07 - 08 Jan 2026**
 
 ---
 
