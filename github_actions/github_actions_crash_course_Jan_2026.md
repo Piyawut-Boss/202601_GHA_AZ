@@ -7,6 +7,8 @@ paginate: true
 backgroundColor: #89f0a5
 ---
 
+<!-- markdownlint-disable MD025 MD024 MD026 MD029 MD001 -->
+
 # GitHub Actions Crash Course Jan 2026
 
 **Piti Champeethong (Fyi/ฟี่)**
@@ -100,7 +102,7 @@ A series of steps that must be performed in order to deliver a new version of so
 
 ---
 
-### Slide 11: Part 2: Core Concepts of GitHub Actions
+### Part 2: Core Concepts of GitHub Actions
 
 **What we will cover:**
 
@@ -144,14 +146,14 @@ jobs:
 
 ---
 
-### Slide 15: The `on` keyword
+### The `on` keyword
 
 * Specifies the trigger for the workflow.
 * Can be a single event, an array of events, or a map of events with configuration.
 
 ---
 
-### Slide 16: Event Filtering
+### Event Filtering
 
 * You can filter events based on branches, tags, paths, etc.
 
@@ -369,7 +371,7 @@ jobs:
 
 ---
 
-### Slide 40: Artifacts
+### Artifacts
 
 * Allow you to persist data between jobs in a workflow.
 * Can also be used to save build outputs after a workflow has completed.
@@ -647,9 +649,10 @@ jobs:
 
 ---
 
-### Slide 71: Part 8: Secrets and Secure Workflows
+### 71: Part 8: Secrets and Secure Workflows
 
 **What we will cover:**
+
 * What are secrets?
 * How to use secrets in your workflows.
 * Security best practices.
